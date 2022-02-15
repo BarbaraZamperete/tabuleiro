@@ -1,0 +1,14 @@
+.tabuleiro{
+    display: flex;
+    background-color: gray;
+    margin: 50px auto;
+    width: fit-content;
+    padding: 50px;
+}
+
+.quadrado{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
